@@ -329,6 +329,9 @@ vendor/firmware/60ms_RTP_174Hz.bin
 vendor/firmware/80ms_RTP_166Hz.bin
 vendor/firmware/80ms_RTP_170Hz.bin
 vendor/firmware/80ms_RTP_174Hz.bin
+vendor/firmware/a640_zap.b01
+vendor/firmware/a640_zap.elf
+vendor/firmware/a640_zap.mdt
 vendor/firmware/aw8697_About_School_RTP_17.bin
 vendor/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin
 vendor/firmware/aw8697_Bliss_RTP_18.bin
@@ -524,6 +527,12 @@ vendor/firmware/awinic_haptic_params.bin
 vendor/firmware/barca_alarm_ring_RTP_120.bin
 vendor/firmware/barca_incoming_ring_RTP_121.bin
 vendor/firmware/barca_notice_ring_RTP_122.bin
+vendor/firmware/ipa_fws.b01
+vendor/firmware/ipa_fws.elf
+vendor/firmware/ipa_fws.mdt
+vendor/firmware/ipa_uc.b01
+vendor/firmware/ipa_uc.elf
+vendor/firmware/ipa_uc.mdt
 vendor/firmware/ringtone_Guitar_RTP.bin
 vendor/firmware/ringtone_Harping_RTP.bin
 vendor/firmware/shuntai24k_rtp.bin
