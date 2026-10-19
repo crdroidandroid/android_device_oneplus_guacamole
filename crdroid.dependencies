@@ -1,7 +1,8 @@
 [
   {
     "repository": "crdroidandroid/android_device_oneplus_sm8150-common",
-    "target_path": "device/oneplus/sm8150-common"
+    "target_path": "device/oneplus/sm8150-common",
+    "branch": "17.0-test"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus-guacamole",
